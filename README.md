@@ -3,7 +3,6 @@ Here detailed screen shots of functionality of farm bharath
 
 <img width="960" alt="2023-10-05 (2)" src="https://github.com/user-attachments/assets/a1d7a674-7f8c-40c5-b97e-a881eca99ca7" />
 <img width="960" alt="2023-10-05 (1)" src="https://github.com/user-attachments/assets/de3bef91-ed34-475e-9993-3bec2f213f42" />
-![2023-10-06](https://github.com/user-attachments/assets/a4ef40f3-43f8-4bd1-aabb-399f0dcabf59)
 <img width="960" alt="2023-10-05" src="https://github.com/user-attachments/assets/64f9572d-50d1-4622-8eba-7d458ea2c1b3" />
 <img width="960" alt="2023-10-05 (10)" src="https://github.com/user-attachments/assets/711d802b-61cc-4493-a3fc-c323c9cb15a2" />
 <img width="960" alt="2023-10-05 (9)" src="https://github.com/user-attachments/assets/18c4a149-981c-463c-a71a-3b4c14cac4fc" />
